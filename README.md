@@ -1,4 +1,4 @@
-# Face_mask_dectection_with_HOG_and_SVM_KNN_LR
+# Face_mask_classification_with_HOG_and_SVM_KNN_LR
 
 Project dùng cho mục đích chia sẻ phi thương mại.
 
